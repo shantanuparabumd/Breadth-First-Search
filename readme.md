@@ -38,7 +38,7 @@
 - [`game.py`](game.py) - Contains the implementation of the 8 Puzzle game using Pygame. 
   This is just a fun visualization of the puzzle. It takes the values from the nodePath.txt file to simulate the path.
 
-- [`Source Code`] - Contains the source code as pdf for plagiarism check
+
 
 ## How to Run the Program:
 To run the program, open the command prompt/terminal and navigate to the directory where the source code files are located. Then, type the following command: python [filename].py.
