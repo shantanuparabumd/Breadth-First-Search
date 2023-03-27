@@ -2,10 +2,10 @@
 
 ## 8 Puzzle
 
-### Student Name
+### Name
 - Shantanu Parab
 
-### Student ID
+### ID
 - sparab@umd.edu
 
 ## Installation Instructions
